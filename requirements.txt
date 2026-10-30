@@ -1,0 +1,6 @@
+winrt-runtime
+winrt-Windows.Foundation
+winrt-Windows.Media.Control
+pystray
+Pillow
+pyinstaller
